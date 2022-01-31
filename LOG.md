@@ -12,7 +12,7 @@ lookup and just do it like that but it's not a cross-platform solution even
 though it is pretty .c code. Tomorrow I'm gonna finish up the testing suite and
 actually get to work on the transformation code. I also am gonna start backing up
 my work by just copying the folder (I had a couple scares today). I really should
-just upload it to git though...
+just upload it to git though....
 
 # 08/01/22
 
